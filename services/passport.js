@@ -1,6 +1,6 @@
 const passport = require('passport');
 const GoogleStrategy = require('passport-google-oauth20').Strategy;
-/* const FacebookStrategy = require('passport-facebook').Strategy; */
+const FacebookStrategy = require('passport-facebook').Strategy;
 const keys = require('../config/keys');
 const mongoose = require('mongoose');
 
@@ -39,7 +39,7 @@ passport.use(new GoogleStrategy({
         })
 }));
 
-/* //Facebook OAuth
+//Facebook OAuth
 passport.use(new FacebookStrategy({
 
     clientID: keys.facebookClienID,
@@ -51,4 +51,4 @@ passport.use(new FacebookStrategy({
     console.log("Token is: " + accessToken);
     //console.log("Profile is: " + profile);
 
-})); */
+}));
