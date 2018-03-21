@@ -6,7 +6,7 @@ repository:
   has_wiki: false
 
 labels:
-  - name: "low hanging fruit"
+  - name: low hanging fruit
     color: CC0000
-  - name: "noobie"
+  - name: noobie
     color: CC0000
