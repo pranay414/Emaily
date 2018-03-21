@@ -1,0 +1,10 @@
+repository:
+  name: Emaily
+  description: Emaily app
+  homepage: https://github.com/pranay414/Emaily
+  topics: javascript
+  has_wiki: false
+
+labels:
+  - name: low-hanging-fruit
+    color: CC0000
