@@ -6,5 +6,5 @@ repository:
   has_wiki: false
 
 labels:
-  - name: low-hanging-fruit
+  - name: "low hanging fruit :strawberry:"
     color: CC0000
