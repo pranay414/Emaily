@@ -1,6 +1,6 @@
 repository:
   name: Emaily
-  description: Emaily application
+  description: Emaily application to send out surveys
   homepage: https://github.com/pranay414/Emaily
   topics: javascript, node, react, mongodb
   has_wiki: false
