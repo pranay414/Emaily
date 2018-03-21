@@ -8,5 +8,3 @@ repository:
 labels:
   - name: low hanging fruit
     color: CC0000
-  - name: noobie
-    color: CC0000
