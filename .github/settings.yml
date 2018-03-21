@@ -1,10 +1,10 @@
 repository:
   name: Emaily
-  description: Emaily app
+  description: Emaily application
   homepage: https://github.com/pranay414/Emaily
   topics: javascript, node, react
   has_wiki: false
 
 labels:
-  - name: "low hanging fruit :strawberry:"
+  - name: "low hanging fruit"
     color: CC0000
