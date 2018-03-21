@@ -2,7 +2,7 @@ repository:
   name: Emaily
   description: Emaily app
   homepage: https://github.com/pranay414/Emaily
-  topics: javascript
+  topics: javascript, node, react
   has_wiki: false
 
 labels:
